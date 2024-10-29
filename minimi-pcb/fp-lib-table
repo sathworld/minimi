@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OPL_Kicad_Library")(type "KiCad")(uri "${KIPRJMOD}/minimi-lib/OPL_Kicad_Library")(options "")(descr ""))
+  (lib (name "Seeed Studio XIAO Series Library")(type "KiCad")(uri "${KIPRJMOD}/minimi-lib/OPL_Kicad_Library/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/minimi-lib/Library.pretty")(options "")(descr ""))
+)
